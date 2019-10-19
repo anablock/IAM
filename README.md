@@ -16,3 +16,6 @@
 * [Salesforce Security Basics](https://help.salesforce.com/articleView?id=overview_security.htm&type=5)
 
 ### Salesforce Shield Implementation
+
+### Key Hygiene: Management Best Practices
+frequently updating tenant secrets reduces the likelihood that malicious third parties can brute-force their way into your org
