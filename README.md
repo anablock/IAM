@@ -24,3 +24,8 @@
 ### Key Hygiene: Management Best Practices
 frequently updating tenant secrets reduces the likelihood that malicious third parties can brute-force their way into your org
 >>>>>>> a349d6165a107d173a938bb6d2e63a8836fed501
+Generating a new tenant secret and archiving the old one is called key rotation, because your new tenant secret generates new encryption keys.
+
+Archived tenant secrets can’t encrypt new data, but the app uses these archived keys to decrypt the data that was previously encrypted with it.
+
+* [Fields which can be Encrypted](https://help.salesforce.com/articleView?id=security_pe_encrypt.htm&type=5)
