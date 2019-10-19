@@ -16,3 +16,5 @@
 * [Salesforce Security Basics](https://help.salesforce.com/articleView?id=overview_security.htm&type=5)
 
 ### Salesforce Shield Implementation
+1. Assign Permissions and Create a Tenant Secret
+    * Customize Application and Manage Encryption Keys permissions
