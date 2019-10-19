@@ -3,6 +3,7 @@
     * [SailPoint](#sailpoint)
     * [Salesforce](#salesforce)
         * [Salesforce Shield Platform](#salesforce-shield-platform)
+            * [Shield Implementation](#shield-implementation)
 
 # Vendors
 
